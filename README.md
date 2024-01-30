@@ -37,5 +37,5 @@ All papers are on scholar [Link](https://scholar.google.com/citations?user=ZSfcQ
 - [Intro to einsum](https://caramel.la/serrysibaee/YxM4Fnlps/alhys-mn-aljys) مقدمة الى ترميز أينشتاين
 
 ### Translated papers 
-- Math for machine learning, `coming soon`
+- Math for machine learning, [link](https://drive.google.com/file/d/1i13jP3Bor6DMiOlLxXdCA5ltTSmJ-GQW/view?usp=sharing) مسودة ليست منتهية
 - Godel paper for G¨odel’s famous proof, `coming soon`
